@@ -9,3 +9,4 @@
 : React , Redux 
 
 #View
+![](./public/redux-todo.gif)
